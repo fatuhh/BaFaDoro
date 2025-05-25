@@ -12,9 +12,13 @@ But wait, this isn’t just another timer app...
 💥 Get fired up with motivational quotes on screen while you work! Every session, you’re greeted with words that push you to keep going — even when you feel like giving up.
 
 ⚙️ Features You’ll Love:
+
 ✅ Fully customizable durations – You’re in control.
+
 ✅ Motivational quotes – Boost your energy and mindset with every session.
+
 ✅ Clean, distraction-free design – Just you, your time, and your goals.
+
 ✅ 100% free, no ads – Because your focus deserves respect.
 
 Whether you’re studying for finals, writing your thesis, or learning a new skill,
