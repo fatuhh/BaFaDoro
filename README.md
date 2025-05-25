@@ -1,25 +1,27 @@
 # BaFaDoro!
-🎯 BaFaDoro! - Zaman Senin Elinde! ⏳
 
-Odaklanmakta zorlanıyor musun? “Şimdi çalışmaya başlıyorum” deyip kendini yine sosyal medyada mı buluyorsun? İşte tam sana göre bir uygulama: BaFaDoro!
+🎯 BaFaDoro! - Time on Your Terms ⏳
 
-🧠 BaFaDoro!, klasik Pomodoro tekniğini alıp, sana özel bir deneyime dönüştürüyor. Kısa mola, uzun mola, ders veya çalışma sürelerini istediğin gibi ayarlayabiliyor, kendi tempona göre çalışabiliyorsun.
+Struggling to stay focused? Keep telling yourself “just five more minutes” while falling into the scroll hole?
+It’s time for a change — meet BaFaDoro!, your personal productivity booster.
 
-Ama BaFaDoro! sadece bir zamanlayıcı değil...
+🧠 Inspired by the Pomodoro Technique but built for your rhythm, BaFaDoro! lets you fully customize your study, short break, and long break durations. Work smarter, not harder.
 
-💥 Seni motive eden sözler her çalışmanda karşına çıkıyor! Ekranda beliren gaz verici sözlerle moral buluyor, kendine geliyor, “Hadi bir 25 dakika daha!” diyorsun.
+But wait, this isn’t just another timer app...
 
-🎓 Özellikler:
-✅ Tamamen özelleştirilebilir süreler – Kısa mola mı, uzun mola mı? Karar senin!
-✅ Motivasyon dolu sözler – Seni gaza getirecek alıntılarla dolu bir ekran seni bekliyor.
-✅ Minimal tasarım, maksimum verim – Gereksiz hiçbir şey yok. Sadece sen ve hedefin.
-✅ Ücretsiz ve reklamsız – Sadece odaklanmaya odaklı.
+💥 Get fired up with motivational quotes on screen while you work! Every session, you’re greeted with words that push you to keep going — even when you feel like giving up.
 
-İster sınavlara hazırlan, ister tezini yaz, ister yeni bir beceri öğren...
-BaFaDoro!, hedeflerine ulaşmana yardım edecek en iyi yoldaşın olacak.
+⚙️ Features You’ll Love:
+✅ Fully customizable durations – You’re in control.
+✅ Motivational quotes – Boost your energy and mindset with every session.
+✅ Clean, distraction-free design – Just you, your time, and your goals.
+✅ 100% free, no ads – Because your focus deserves respect.
 
-🕒 Hadi, zamanı kontrol altına al.
-📲 BaFaDoro! ile tanış, odaklan, başar!
+Whether you’re studying for finals, writing your thesis, or learning a new skill,
+BaFaDoro! is here to keep you going, one focused session at a time.
+
+🕒 Take control of your time.
+📲 Download BaFaDoro! and stay on track — with style and motivation.
 
 
 
